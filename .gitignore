@@ -1,0 +1,12 @@
+.env
+.DS_Store
+*.dmg
+*.zip
+*.har
+*.log
+*.app/
+Chrome_Profiles/
+profiles/
+screenshots/
+dist/
+local/

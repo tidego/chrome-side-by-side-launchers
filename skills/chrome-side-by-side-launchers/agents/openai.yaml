@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chrome Side-by-Side Launchers"
+  short_description: "Create and maintain isolated macOS Chrome Beta/Canary launchers"
+  default_prompt: "Use $chrome-side-by-side-launchers to create or repair isolated macOS Chrome Beta/Canary launchers with configurable profiles and proxy settings."
